@@ -176,8 +176,8 @@ video {
 }
 
 #partner_logo_img {
-  width: 100px;
-  height: 32px;
+  width: 135px;
+  /* height: 32px; */
   object-fit: contain;
   object-position: center;
 }
