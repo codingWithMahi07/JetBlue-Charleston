@@ -50,6 +50,7 @@ video {
   width: 728px;
   height: 90px;
   z-index: 500;
+  cursor: pointer;
 }
 
 :focus {
